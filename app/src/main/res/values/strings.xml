@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Generic API Client</string>
+    <string name="id">ID:</string>
+    <string name="type">TYPE:</string>
+    <string name="setup">SETUP:</string>
+    <string name="punchline">PUNCHLINE:</string>
+    <string name="update">UPDATE DATA</string>
+</resources>
